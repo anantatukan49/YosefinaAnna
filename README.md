@@ -99,12 +99,11 @@
     <!-- HEADER -->
     <div class="header">
         <b>Nama : Yosefina Anna</b>
-        <b>NPM : 24120020</b>
+        <b>NPM : 24120023</b>
     </div>
 
     <!-- JUDUL -->
     <div class="judul">
-        <h1>LATIHAN</h1>
         <p>
             <b>Nama :</b> Yosefina Anna <br>
             <b>NPM :</b> 24120020
