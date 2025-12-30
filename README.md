@@ -102,7 +102,7 @@
     <div class="header">
         <h1>UAS PEMROGRAMAN WEB</h1>
         <hr>
-        <p>Nama : <b>Yosefina</b> | Aplikasi Perhitungan Nilai Mahasiswa</p>
+        <p>Nama : <b>Yosefina Anna Maria Tukan</b> | Aplikasi Perhitungan Nilai Mahasiswa</p>
     </div>
 
     <!-- CONTENT -->
