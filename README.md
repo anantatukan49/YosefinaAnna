@@ -1,3 +1,8 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <title>Yosefina – UAS Pemrograman Web</title>
 
     <style>
         body {
